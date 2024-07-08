@@ -1,0 +1,15 @@
+*{
+	mergin : 0;
+	padding : 0;
+  
+
+}
+.header{
+	min-height: 200px;
+	width: 15%;
+	background-image:  url('images.png');
+	background-position: certer;
+	background-size: cover;
+	position:relative;
+
+}
